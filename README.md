@@ -1,4 +1,6 @@
 - Hi, I’m @DaveN1c
-- I’m interested in programming and playing on my guitar!
-- I’m currently studying IT in high school
-- You can contact me by email: davenicbusiness@gmail.com
+- My hobbies are programming and playing on guitar!
+- I’m currently studying IT at University Hradec Králové.
+
+- My e-mail: davidbagar52@gmail.com
+- My web: www.bagardavid.com
